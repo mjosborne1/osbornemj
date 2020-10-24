@@ -21,4 +21,8 @@
 <div class="row">
   <div class="sm-4 col"></div>
 </div>
+<ul class="breadcrumb border">
+  <li><a href="blogs">Blog</a></li>    
+</ul>
+<h1>{blog.title}</h1>
 {@html blog.html}

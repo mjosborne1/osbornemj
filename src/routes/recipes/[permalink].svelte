@@ -19,17 +19,11 @@
 <div class="row">
   <div class="sm-4 col"></div>
 </div>
-<div class="row">
-  <div class="sm-4 col"></div>
-</div>
-<h1> <span class="badge">{recipe.title}</span> </h1>
-<div class="row">
-  <div class="sm-4 col"></div>
-</div>
+<ul class="breadcrumb border">
+  <li><a href="recipes">Recipes</a></li>    
+</ul>
 <!-- display the recipe -->
-<div class="row">
-  <div class="sm-4 col"></div>
-</div>
+<h1>{recipe.title}</h1>
 <br>
 {@html recipe.html}
 <hr>

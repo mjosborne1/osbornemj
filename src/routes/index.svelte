@@ -12,10 +12,27 @@
 <article class="article">
 <h1 class="article-title">About me</h1>
  <section>
- I would describe myself as a curious person. Without curiosity, how do you grow and how do you remain interested and dedicated to what you do?
- I think curiosity is a key ingrediant to my success and 30+ years in the Pathology industry. There's never a dull moment in Pathology IT.
- Please read on....
- 
+ I would describe myself as a curious person. 
+ I think curiosity is a key ingrediant to my success over 30+ years in the Pathology industry.
+ There is an over-abundance of complexity in Pathology.
+ If you look at what is classed as Pathology in Australia, even one discipline is at least as complex as any other business you can name.
+ Banking? Well...try and make sense of Australian Medicare rules for billing. 
+ Airport loses you suitcase on a regular basis?
+ For Pathology labs...any specimen loss can cause a different kind of a suit case, and worse, adverse patient outcomes. 
+ Training a Pathology Informatician takes a long time.
+ If you begin as a laboratory scientist and have experience on the bench but have a technical bent,
+ this is a great start to your career in Pathology Informatics.
+ This is not to say you can't come from the other direction as a technical IT person, however that journey is a lot harder,
+ as the domain can be difficult to understand without having worked in it.
+ Much of the ability of Pathology labs to react to changes in regulatory requirements,
+ new tests, billing and instrumentation requires someone who can talk to the IT folk about firewalls, network switches, integration
+ as well as having great troubleshooting skills. Pathology information systems are necessarily complex and often very flexible in configuration.
+ This can be a burdon as well as a blessing. There is always a large technical debt associated with a lot of custom configuration and scripting.
+ This complexity makes Pathology IT systems very difficult to replace. Witness the labs that have tried and either failed,
+ or spent a fortune and a riduculous amount of time doing it. Updating IT systems in Pathology is not for the faint hearted, so having experienced
+ Pathology Informaticians on hand is a necessity. How do you become a Pathology Informatician? 
+ This gets me back to my initial statement...the more curious you are, the more you learn and the more capable you are with coping with the complexity 
+ and hence the more successful and comfortable in the role.
  </section>
  <div class="row">
   <div class="sm-4 col"></div>
