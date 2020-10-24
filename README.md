@@ -1,23 +1,9 @@
-# sapper-template
-
-A [Sapper](https://github.com/sveltejs/sapper) template, that includes Rollup.
-
-This is a fork of the official template, with some differences:
-
-- Includes [ESLint](https://eslint.org/) support for `.js` and `.svelte` files.
-- Removes most demo code.
-- Includes [`svelte-preprocess`](https://www.npmjs.com/package/svelte-preprocess) in case you want sass or typescript support
-
-## Getting started
-
-
-Create a copy using [`degit`](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit joshnuss/sapper-template my-sappper-app
-```
-
+#
+# Basic Recipe and Blog site - osbornemj
+# 
 ### Running the project
+
+Fork of Svelte / Sapper  [https://github.com/sveltejs/sapper]
 
 Install dependencies and run the project in development mode with:
 

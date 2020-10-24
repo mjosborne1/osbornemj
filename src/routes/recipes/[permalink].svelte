@@ -18,7 +18,9 @@
 </script>
 
 <!-- display the recipe -->
-<h1>{recipe.title}</h1>
-<h4>{recipe.summary}</h4>
-<hr>
+<div class="row">
+  <div class="sm-4 col"></div>
+</div>
+<br>
 {@html recipe.html}
+<hr>
