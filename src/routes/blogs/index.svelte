@@ -6,7 +6,7 @@
 
 
 <svelte:head>
-  <title>Family blogs</title>
+  <title>Michael's Blog</title>
 </svelte:head>
 
 <div class="row">
@@ -15,7 +15,7 @@
 <div class="row">
   <div class="sm-4 col"></div>
 </div>
-
+<h1> <span class="badge">Michael's Blog</span> </h1>
 <!-- iterate through each post -->
 {#each blogs as blog}
   <article>
@@ -24,6 +24,7 @@
       <h2>{blog.title}</h2>      
     </a>
     <p>{blog.summary}</p>
+    <p>{blog.date}</p>
   </article>
 {/each}
 

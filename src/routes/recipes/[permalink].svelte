@@ -16,7 +16,16 @@
   // this prop is filled from the result of the `preload()`
   export let recipe
 </script>
-
+<div class="row">
+  <div class="sm-4 col"></div>
+</div>
+<div class="row">
+  <div class="sm-4 col"></div>
+</div>
+<h1> <span class="badge">{recipe.title}</span> </h1>
+<div class="row">
+  <div class="sm-4 col"></div>
+</div>
 <!-- display the recipe -->
 <div class="row">
   <div class="sm-4 col"></div>

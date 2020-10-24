@@ -9,7 +9,7 @@
 
 <nav class="border fixed split-nav">
   <div class="nav-brand">
-    <h3><a class='{segment === undefined ? "selected" : ""} title' href='.'>About Mike</a></h3>
+    <h3><a class='{segment === undefined ? "selected" : ""} title' href='.'>About Michael Osborne</a></h3>
   </div>
   <div class="collapsible">
     <input id="collapsible1" type="checkbox" name="collapsible1">

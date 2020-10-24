@@ -12,12 +12,8 @@
 <div class="row">
   <div class="sm-4 col"></div>
 </div>
-<div class="row">
-  <div class="sm-4 col"></div>
-</div>
 
 <h1> <span class="badge">Family Recipes</span> </h1>
-
 
 <!-- iterate through each post -->
 {#each recipes as recipe}

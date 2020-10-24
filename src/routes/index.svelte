@@ -9,7 +9,18 @@
   <div class="col-4 col"><img src="img/South-Park-Avatar.jpg" alt="Mike Avatar"></div>
   <div class="col-4 col"></div>
 </div>
-
+<article class="article">
+<h1 class="article-title">About me</h1>
+ <section>
+ I would describe myself as a curious person. Without curiosity, how do you grow and how do you remain interested and dedicated to what you do?
+ I think curiosity is a key ingrediant to my success and 30+ years in the Pathology industry. There's never a dull moment in Pathology IT.
+ Please read on....
+ 
+ </section>
+ <div class="row">
+  <div class="sm-4 col"></div>
+</div>
+</article>
 <article class="article">
   <h1 class="article-title">Career highlights</h1>
 
@@ -29,7 +40,7 @@
   I began as a computer scientist learning the Kestral Pathology LIS (PLS) in February 2009. I was on a temporary 12 month contract as the Manager had gone on long service leave and didn't look to be coming back. At Mater I was involved less with the programming (although there are elements to it in PLS and HL7Connect) and more with system configuration. There was still a lot of HL7 integration work to do. I was made permanent full-time in 2010. We went through quite a few managers. I even spent about 12 months as manager of Pathology Information Systems although this was in addition to my team leader / technical role, which was unsustainable. In about 2014 the DIST (Digital Imaging Support Team) and Pathology Information systems team merged to become Diagnostic Solutions, which fit into the Health Solutions team. I basically lead the Pathology Support team from the technical aspect, looking after server support of PLS, HL7Connect, the pathology Intersystems Ensemble production, PKS Rippledown and a few other systems. 
   </section>
  <br>
-  <h3>Senior Application Specialist</h3>
+  <h3>Senior Application Specialist - Mater Digital Technology and Information Division</h3>
   <section>
   Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Mater Clinical Portals and Onbase.
   I still work most of the time on Pathology related duties, though I do get pulled in to other projects, mainly in the Integration space.
