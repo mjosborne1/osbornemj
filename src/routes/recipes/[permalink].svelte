@@ -26,4 +26,3 @@
 <h1>{recipe.title}</h1>
 <br>
 {@html recipe.html}
-<hr>

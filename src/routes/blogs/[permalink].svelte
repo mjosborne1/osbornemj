@@ -23,6 +23,7 @@
 </div>
 <ul class="breadcrumb border">
   <li><a href="blogs">Blog</a></li>    
+  <li>{blog.title}</li>
 </ul>
-<h1>{blog.title}</h1>
+<p>{blog.date}</p>
 {@html blog.html}

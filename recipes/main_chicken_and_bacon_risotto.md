@@ -4,8 +4,6 @@ summary: My favourite chicken risotto recipe
 date: 2020-10-24
 ---
 
-## Chicken and Bacon Risotto
-
 ### Serves 4
 
 ### Ingrediants

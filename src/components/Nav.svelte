@@ -24,6 +24,7 @@
         <li><a rel=prefetch class='{segment === "recipes" ? "selected" : ""}' href='recipes'>Recipes</a></li>
         <li><a rel=prefetch class='{segment === "blog" ? "selected" : ""}' href='blogs'>Blog</a></li>
         <li><a href="https://github.com/mjosborne1" target="_blank">Github</a></li>
+        <li><a href="https://www.facebook.com/mike.osborne.568" target="_blank">Facebook</a></li>	
       </ul>
     </div>
   </div>
