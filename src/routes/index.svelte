@@ -29,9 +29,9 @@
  as well as having great troubleshooting skills. Pathology information systems are necessarily complex and often very flexible in configuration.
  This can be a burdon as well as a blessing. There is always a large technical debt associated with a lot of custom configuration and scripting.
  This complexity makes Pathology IT systems very difficult to replace. Witness the labs that have tried and either failed,
- or spent a fortune and a riduculous amount of time doing it. Updating IT systems in Pathology is not for the faint hearted, so having experienced
+ or spent a fortune and a ridiculous amount of time doing it. Updating IT systems in Pathology is not for the faint hearted, so having experienced
  Pathology Informaticians on hand is a necessity. How do you become a Pathology Informatician? 
- This gets me back to my initial statement...the more curious you are, the more you learn and the more capable you are with coping with the complexity 
+ Have the right skill set and ask questions...the more curious you are, the more you learn and the more capable you will be coping with the complexity 
  and hence the more successful and comfortable in the role.
  </section>
  <div class="row">
