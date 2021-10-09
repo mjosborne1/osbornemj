@@ -59,9 +59,9 @@
  <br>
   <h3>Senior Application Specialist - Mater Digital Technology and Information Division</h3>
   <section>
-  Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Mater Clinical Portals and Onbase.
-  I still work most of the time on Pathology related duties, though I do get pulled in to other projects, mainly in the Integration space.
-  2021 will see me come full circle, with Mater Pathology implementing the Ultra LIS, which I spent 15 years or so using, and later, developing at QML.
+  Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Diagnostic Devices and Diagnostic Imaging.  
+  2021 has see me come full circle, with Mater Pathology implementing the Ultra LIS, which I spent 15 years or so using, and later, developing at QML.
+  Ultra will be getting a new look Web interface and is deployed in Azure. Just goes to show, you get the fundamentals right and improve on the interface.  
   </section>
  <br>
   <br>
@@ -83,6 +83,7 @@
   <h3>Personal Interests</h3>
   <ul>
     <li> Reading</li>
+    <li> Live Music</li>
     <li> Web Development</li>
     <li> Lawn Bowls</li>
     <li> Golf</li>
