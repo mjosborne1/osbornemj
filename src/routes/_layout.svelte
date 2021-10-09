@@ -6,7 +6,7 @@
 
 <style>
   main {
-		position: relative;
+		position: sticky;
 		max-width: 90%;
 		padding: 1rem;
 		margin: 0 auto;
