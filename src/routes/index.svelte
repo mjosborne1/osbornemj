@@ -25,7 +25,7 @@
  This is not to say you can't come from the other direction as a technical IT person, however that journey is a lot harder,
  as the domain can be difficult to understand without having worked in it.
  Much of the ability of Pathology labs to react to changes in regulatory requirements,
- new tests, billing and instrumentation requires someone who can talk to the IT folk about firewalls, network switches, integration
+ new tests, billing and instrumentation requires someone who can talk to the IT folk about firewalls, network switches, integration, SQL, Business Intelligence,
  as well as having great troubleshooting skills. Pathology information systems are necessarily complex and often very flexible in configuration.
  This can be a burdon as well as a blessing. There is always a large technical debt associated with a lot of custom configuration and scripting.
  This complexity makes Pathology IT systems very difficult to replace. Witness the labs that have tried and either failed,
@@ -54,12 +54,12 @@
  <br>
   <h3>Pathology Technical Lead at Mater Health Services</h3>
   <section>
-  I began as a computer scientist learning the Kestral Pathology LIS (PLS) in February 2009. I was on a temporary 12 month contract as the Manager had gone on long service leave and didn't look to be coming back. At Mater I was involved less with the programming (although there are elements to it in PLS and HL7Connect) and more with system configuration. There was still a lot of HL7 integration work to do. I was made permanent full-time in 2010. We went through quite a few managers. I even spent about 12 months as manager of Pathology Information Systems although this was in addition to my team leader / technical role, which was unsustainable. In about 2014 the DIST (Digital Imaging Support Team) and Pathology Information systems team merged to become Diagnostic Solutions, which fit into the Health Solutions team. I basically lead the Pathology Support team from the technical aspect, looking after server support of PLS, HL7Connect, the pathology Intersystems Ensemble production, PKS Rippledown and a few other systems. 
+  I began as a computer scientist learning the Kestral Pathology LIS (PLS) in February 2009. I was on a temporary 12 month contract as the Manager had gone on long service leave and didn't look to be coming back. At Mater I was involved less with the programming (although there are elements to it in PLS and HL7Connect) and more with system configuration. There was still a lot of HL7 integration work to do. I was made permanent full-time in 2010. We went through quite a few managers. I even spent about 12 months as manager of Pathology Information Systems although this was in addition to my team leader / technical role, which was unsustainable. In about 2014 the DIST (Digital Imaging Support Team) and Pathology Information systems team merged to become Diagnostic Solutions, which fit into the Health Solutions team. I basically lead the Pathology Support team from the technical aspect, looking after server support of PLS, HL7Connect, SQL Server, SSRS, SSIS, PowerBI, the pathology Intersystems Ensemble production, PKS Rippledown and a few other systems. 
   </section>
  <br>
   <h3>Senior Application Specialist - Mater Digital Technology and Information Division</h3>
   <section>
-  Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Diagnostic Devices and Diagnostic Imaging.  
+  Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Diagnostics, Devices and Monitoring.  
   2021 has see me come full circle, with Mater Pathology implementing the Ultra LIS, which I spent 15 years or so using, and later, developing at QML.
   Ultra will be getting a new look Web interface and is deployed in Azure. Just goes to show, you get the fundamentals right and improve on the interface.  
   </section>
