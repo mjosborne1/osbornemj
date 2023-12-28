@@ -59,9 +59,10 @@
  <br>
   <h3>Senior Application Specialist - Mater Digital Technology and Information Division</h3>
   <section>
-  Under new leadership, I have moved into a new team, responsible for Pathology Informations Systems, Diagnostics, Devices and Monitoring.  
-  2021 has see me come full circle, with Mater Pathology implementing the Ultra LIS, which I spent 15 years or so using, and later, developing at QML.
-  Ultra will be getting a new look Web interface and is deployed in Azure. Just goes to show, you get the fundamentals right and improve on the interface.  
+  As a Senior Appliction Specialist I helped to maintain Pathology Informations Systems for Mater Pathology as well as looking after RIS/PACS, Medical Devices and other systems.  
+  In 2021 I began to help Mater Pathology implement the Ultra LIS, which I spent 15 years or so using, and later, developing at QML. 3 Years down the track that project is still not live.
+  In August 2023, I left Mater after 14 years to work on a large National project - Sparked, the Australian FHIR accelerator run by CSIRO AEHRC. Mater was a good place to work, but I couldn't knock back the chance to work on this once in a liftetime project.
+  Progressing Health System Interoperability has been my life for 25 years - it finally feels like we have some good momentum in Australia.
   </section>
  <br>
   <br>
