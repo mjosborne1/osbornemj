@@ -61,11 +61,15 @@
   <section>
   As a Senior Appliction Specialist I helped to maintain Pathology Informations Systems for Mater Pathology as well as looking after RIS/PACS, Medical Devices and other systems.  
   In 2021 I began to help Mater Pathology implement the Ultra LIS, which I spent 15 years or so using, and later, developing at QML. 3 Years down the track that project is still not live.
-  In August 2023, I left Mater after 14 years to work on a large National project - Sparked, the Australian FHIR accelerator run by CSIRO AEHRC. Mater was a good place to work, but I couldn't knock back the chance to work on this once in a liftetime project.
+  </section> 
+ <br> 
+  <h3>Senior Research Technician - CSIRO AEHRC</h3>
+  <section>  
+    In August 2023, I left Mater after 14 years to work on a large National project - Sparked, the Australian FHIR accelerator run by CSIRO AEHRC. Mater was a good place to work, but I couldn't knock back the chance to work on this once in a liftetime project.
   Progressing Health System Interoperability has been my life for 25 years - it finally feels like we have some good momentum in Australia.
   </section>
  <br>
-  <br>
+ <br>
   <h3>Digital Health Experience</h3>
   <ul>
     <li>Australian Passive Antimicrobial Awareness system working group AURA/OrgTrx (2015-present)</li>
